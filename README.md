@@ -14,12 +14,18 @@ conda create -n $env_name -y python=3.9.18
 conda activate $env_name
 
 # For crystal-related package
-pip install matminer==0.9.0
-pip install pymatgen==2023.11.12
+conda install -y -c conda-forge pymatgen
+pip install matminer
 
 # For machine learing package
-pip install scikit-learn==1.2.2
+pip install scikit-learn
+pip install optuna
+pip install xgboost
+pip install lightgbm
+pip install catboost
 
+# For interpretable package
+pip install shap
 ```
 
 ### How to cite
