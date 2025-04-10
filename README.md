@@ -5,3 +5,6 @@ This repository is the implementation of the HiBoFL framework for the paper "Hie
 ### Schematic
 ![image](https://github.com/mf-wu/HiBoFL/blob/main/figure/Fig1.png)
 *Hierarchy-boosted funnel learning (HiBoFL) framework for accelerating the discovery of functional materials.*
+
+### How to cite
+Welcome to cite our paper if you find our codes useful:
