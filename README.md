@@ -8,3 +8,9 @@ This repository is the implementation of the HiBoFL framework for the paper "Hie
 
 ### How to cite
 Welcome to cite our paper if you find our codes useful:
+@article{wu2025hierarchy,
+  title={Hierarchy-boosted funnel learning for identifying semiconductors with ultralow lattice thermal conductivity},
+  author={Wu, Mengfan and Yan, Shenshen and Ren, Jie},
+  journal={arXiv preprint arXiv:2501.06775},
+  year={2025}
+}
