@@ -7,6 +7,21 @@ arXiv: [10.48550/arXiv.2501.06775](https://arxiv.org/abs/2501.06775)
 ![image](https://github.com/mf-wu/HiBoFL/blob/main/figure/Fig1.png)
 *Hierarchy-boosted funnel learning (HiBoFL) framework for accelerating the discovery of functional materials.*
 
+### Dependencies
+```
+env_name="HiBoFL"
+conda create -n $env_name -y python=3.9.18
+conda activate $env_name
+
+# For crystal-related package
+pip install matminer==0.9.0
+pip install pymatgen==2023.11.12
+
+# For machine learing package
+pip install scikit-learn==1.2.2
+
+```
+
 ### How to cite
 Welcome to cite our paper if you find our codes useful:
 ```
