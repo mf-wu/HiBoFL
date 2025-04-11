@@ -1,5 +1,11 @@
 # HiBoFL
 ![image](https://img.shields.io/badge/Release-Ver1.0.0-blue.svg)
+![GitHub Repo stars](https://img.shields.io/github/stars/mf-wu/HiBoFL?style=social) 
+![GitHub forks](https://img.shields.io/github/forks/mf-wu/HiBoFL?style=social)
+![GitHub](https://img.shields.io/github/license/mf-wu/HiBoFL?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues-raw/mf-wu/HiBoFL?style=flat-square)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/mf-wu/HiBoFL?style=flat-square)
+
 ### Description
 This repository is the implementation of the HiBoFL framework for the paper "*Hierarchy-boosted funnel learning for identifying semiconductors with ultralow lattice thermal conductivity*" published in *npj Computational Materials*.  
 arXiv: [10.48550/arXiv.2501.06775](https://arxiv.org/abs/2501.06775)
