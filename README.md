@@ -2,6 +2,7 @@
 <a href="https://github.com/mf-wu/HiBoFL">
   <img alt="HiBoFL" src="https://img.shields.io/badge/Machine%20Learning-HiBoFL-blue.svg">
 </a>
+
 ![image](https://img.shields.io/badge/Release-Ver1.0.0-blue.svg)
 ![GitHub](https://img.shields.io/github/license/mf-wu/HiBoFL?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/mf-wu/HiBoFL)
