@@ -1,6 +1,6 @@
 # HiBoFL
 <a href="https://github.com/mf-wu/HiBoFL">
-  <img alt="HiBoFL" src="https://img.shields.io/badge/Machine%20Learning-HiBoFL-blue.svg">
+  <img alt="HiBoFL" src="https://img.shields.io/badge/Machine%20Learning-Lattice Thermal Conductivity-blue.svg">
 </a>
 
 ![image](https://img.shields.io/badge/Release-Ver1.0.0-blue.svg)
