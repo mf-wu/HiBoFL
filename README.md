@@ -1,5 +1,5 @@
 # HiBoFL
-<a href="https://github.com/mf-wu/HiBoFL" target="_blank"><img src="https://img.shields.io/badge/Github-document_classfication-red.svg"></a>
+<a href="https://github.com/mf-wu/HiBoFL" target="_blank"><img src="https://img.shields.io/badge/Machine%20Learning-Lattice%20Thermal%20Conductivity-red.svg"></a>
 
 <a href="https://github.com/mf-wu/HiBoFL">
   <img alt="HiBoFL" src="https://img.shields.io/badge/Machine%20Learning-Lattice Thermal Conductivity-blue.svg">
