@@ -2,7 +2,7 @@
 <a href="https://github.com/mf-wu/HiBoFL" target="_blank"><img src="https://img.shields.io/badge/Machine%20Learning-Lattice%20Thermal%20Conductivity-red.svg"></a>
 ![GitHub top language](https://img.shields.io/github/languages/top/mf-wu/HiBoFL)
 ![GitHub](https://img.shields.io/github/license/mf-wu/HiBoFL?style=flat-square)
-![GitHub Repo stars](https://img.shields.io/github/stars/mf-wu/HiBoFL?style=social) 
+![GitHub Repo stars](https://img.shields.io/github/stars/mf-wu/HiBoFL?style=social&cacheSeconds=60) 
 
 This repository is the implementation of the HiBoFL framework for the paper "*Hierarchy-boosted funnel learning for identifying semiconductors with ultralow lattice thermal conductivity*" published in *npj Computational Materials*.  
 - arXiv: [10.48550/arXiv.2501.06775](https://arxiv.org/abs/2501.06775)
