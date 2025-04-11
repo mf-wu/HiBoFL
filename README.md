@@ -35,7 +35,7 @@ pip install shap
 
 ### How to cite
 Welcome to cite our paper if you find our codes useful:
-```
+```bibtex
 @article{wu2025hierarchy,
   title={Hierarchy-boosted funnel learning for identifying semiconductors with ultralow lattice thermal conductivity},
   author={Wu, Mengfan and Yan, Shenshen and Ren, Jie},
