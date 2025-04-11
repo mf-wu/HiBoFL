@@ -1,4 +1,4 @@
-# HiBoFL
+## HiBoFL
 <a href="https://github.com/mf-wu/HiBoFL" target="_blank"><img src="https://img.shields.io/badge/Machine%20Learning-Lattice%20Thermal%20Conductivity-red.svg"></a>
 ![GitHub top language](https://img.shields.io/github/languages/top/mf-wu/HiBoFL)
 ![GitHub](https://img.shields.io/github/license/mf-wu/HiBoFL?style=flat-square)
