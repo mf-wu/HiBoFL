@@ -38,3 +38,13 @@ Welcome to cite our paper if you find our codes useful:
   year={2025}
 }
 ```
+<div style="border:1px solid #ccc; border-radius:6px; padding:12px; background-color:#f9f9f9;">
+<pre><code><span style="color:#a020f0;">@article</span>{<span style="color:#ba55d3;">wu2025hierarchy</span>,
+  <span style="color:#003366;">title</span>={<span style="color:#003366;">Hierarchy-boosted funnel learning for identifying semiconductors with ultralow lattice thermal conductivity</span>},
+  <span style="color:#003366;">author</span>={<span style="color:#003366;">Wu, Mengfan and Yan, Shenshen and Ren, Jie</span>},
+  <span style="color:#003366;">journal</span>={<span style="color:#003366;">arXiv preprint arXiv:2501.06775</span>},
+  <span style="color:#003366;">year</span>={<span style="color:#003366;">2025</span>}
+}
+</code></pre>
+</div>
+</details>
