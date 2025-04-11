@@ -1,14 +1,13 @@
 # HiBoFL
 <a href="https://github.com/mf-wu/HiBoFL">
-  <img alt="HiBoFL" src="https://img.shields.io/badge/Machine%20Learning-Lattice Thermal Conductivity-blue.svg">
+  <img alt="HiBoFL" src="https://img.shields.io/badge/Machine%20Learning-Lattice%20Thermal%20Conductivity-blue.svg">
 </a>
-
-![image](https://img.shields.io/badge/Release-Ver1.0.0-blue.svg)
-![GitHub](https://img.shields.io/github/license/mf-wu/HiBoFL?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/mf-wu/HiBoFL)
-![GitHub issues](https://img.shields.io/github/issues-raw/mf-wu/HiBoFL?style=flat-square)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/mf-wu/HiBoFL?style=flat-square)
-![GitHub Repo stars](https://img.shields.io/github/stars/mf-wu/HiBoFL?style=social) 
+<img src="https://img.shields.io/badge/Release-Ver1.0.0-blue.svg">
+<img src="https://img.shields.io/github/license/mf-wu/HiBoFL?style=flat-square">
+<img src="https://img.shields.io/github/languages/top/mf-wu/HiBoFL">
+<img src="https://img.shields.io/github/issues-raw/mf-wu/HiBoFL?style=flat-square">
+<img src="https://img.shields.io/github/issues-closed/mf-wu/HiBoFL?style=flat-square">
+<img src="https://img.shields.io/github/stars/mf-wu/HiBoFL?style=social">
 
 ### Description
 This repository is the implementation of the HiBoFL framework for the paper "*Hierarchy-boosted funnel learning for identifying semiconductors with ultralow lattice thermal conductivity*" published in *npj Computational Materials*.  
