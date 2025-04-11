@@ -33,7 +33,7 @@ pip install catboost
 pip install shap
 ```
 
-## How to cite
+### How to cite
 Welcome to cite our paper if you find our codes useful:
 ```bibtex
 @article{wu2025hierarchy,
