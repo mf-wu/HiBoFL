@@ -40,7 +40,11 @@ Welcome to cite our paper if you find our codes useful:
 @article{wu2025hierarchy,
   title={Hierarchy-boosted funnel learning for identifying semiconductors with ultralow lattice thermal conductivity},
   author={Wu, Mengfan and Yan, Shenshen and Ren, Jie},
-  journal={arXiv preprint arXiv:2501.06775},
-  year={2025}
+  journal={npj Computational Materials},
+  volume={11},
+  number={106},
+  year={2025},
+  doi={10.1038/s41524-025-01583-9},
+  publisher={Nature Publishing Group}
 }
 ```
