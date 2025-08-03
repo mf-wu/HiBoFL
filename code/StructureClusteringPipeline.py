@@ -196,9 +196,3 @@ class StructureClusteringPipeline:
         else:
             print("No data to merge.")
             return None
-
-
-if __name__ == "__main__":
-    # json_path='./data/MP_dataset_screened.json'
-    # output_path='./data/MP_dataset_cluster_0_1.json'
-    pipeline = StructureClusteringPipeline(json_path='./data/MP_dataset_screened.json')

@@ -206,9 +206,3 @@ class BondAnalyzer:
 
         df_wa = pd.concat([wabl, summary], ignore_index=True)
         return df_wa
-    
-
-if __name__ == "__main__":
-    # json_path='./data/MP_C12_selected_features.json'
-    # model_path='./pretrained_model/SupervisedPredictor.pkl'
-    data = DataLoader(json_path='./data/MP_C12_selected_features.json', model_path='./pretrained_model/SupervisedPredictor.pkl')

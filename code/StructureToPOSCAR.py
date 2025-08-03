@@ -33,8 +33,3 @@ class StructureToPOSCAR:
             except Exception as e:
                 print(f"Failed to export {poscar_name}: {e}")
             os.chdir(cwd_home)
-            
-                   
-if __name__ == "__main__":
-    strctopos = StructureToPOSCAR(json_path='./data/MP_dataset_cluster_0_1.json', structure_dir='./data/structures/')
-    strctopos.export_poscars()

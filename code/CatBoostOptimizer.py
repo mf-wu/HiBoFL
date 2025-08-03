@@ -164,7 +164,3 @@ class CatBoostOptimizer:
         print(f"F Score: {f1:.4f}")
         print("Confusion Matrix:")
         print(confusion_matrix(y_true, y_pred))
-
-if __name__ == "__main__":
-    # json_path='./data/MP_dataset_C12_HTC.json'
-    catopt = CatBoostOptimizer(json_path='./data/MP_C12_selected_features.json')

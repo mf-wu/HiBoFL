@@ -172,9 +172,3 @@ class SupervisedClassifierPipline:
         df_final.drop(columns=['structure'], inplace=True, errors='ignore')
         df_final.to_json(output_path)
         self.df_final = df_final
-
-
-if __name__ == "__main__":
-    # json_path='./data/MP_dataset_C12_HTC.json'
-    # output_path='./data/MP_C12_selected_features.json'
-    pipeline = SupervisedClassifierPipline(json_path='./data/MP_dataset_C12_HTC.json')
